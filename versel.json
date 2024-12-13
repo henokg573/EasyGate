@@ -10,6 +10,10 @@
     {
       "src": "/",
       "dest": "telegram.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "telegram.py"
     }
   ]
 }
